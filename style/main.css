@@ -111,8 +111,8 @@ body {
     gap: 2em;
 }
 .fluid-img {
-    inline-size: 56px;
-    block-size: 56px;
+    inline-size: 30px;
+    block-size: 30px;
     block-size: auto;
     object-fit: cover;
 }
