@@ -171,7 +171,7 @@ body {
         grid-template-rows: repeat(auto-fill, 1fr);
     }
     .card {
-        font-size: .7em;
+        font-size: .5em;
     }
     .one {
         grid-area: 1 / 1 / 1 / 3;
